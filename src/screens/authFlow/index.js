@@ -1,0 +1,12 @@
+import Splash from './splash'
+import Signin from './signin'
+import Onbaording from './onboarding'
+import Subsription from './subsciption'
+import CreatePass from './createpass'
+import OtpConfirmation from './otp'
+import ForgotPass from './fogotpass'
+import ChangePass from './changepass'
+import CreateProfile from './createprofile'
+import ChooseInterests from './chooseInterests'
+import AddPhotos from './addphotos'
+export {Splash,Signin,Onbaording,Subsription,CreatePass,OtpConfirmation,ForgotPass,ChangePass,CreateProfile,ChooseInterests,AddPhotos}   
